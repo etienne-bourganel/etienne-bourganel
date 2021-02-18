@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**etienne-bourganel/etienne-bourganel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 I am a former sales and customer service guy who happened to have an education degree within mechanical and material science and I am reconverting to become a prgorammer.
 
 I’m currently learning Web Dev via different courses: Learn Enough, Odin Project but also Golang.
