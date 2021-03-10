@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I am a former sales and customer service guy with an engineering edication, now gladly reconverting to become a programmer.
+I am a former sales and customer-service guy with an engineering education, now gladly reconverting to become a programmer.
 
-I’m currently learning Web Dev through different courses: Learn Enough, Odin Project and I am also learning Golang.
+I’m currently learning Web Dev through different courses: Learn Enough and The Odin Project. I am also learning Golang.
 
 Some of the modest achievements in my journey so far:
 
