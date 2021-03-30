@@ -31,7 +31,7 @@ Some of the modest achievements in my journey so far:
 ### [FreeCodeCamp](https://www.freecodecamp.org/learn/)
 
 <a href="https://www.freecodecamp.org/learn">
-    <img style="height: 70px; padding: 1em" src="https://d33wubrfki0l68.cloudfront.net/bbfa33a202e8612d49b6c1ed05c1fdd8e4001566/bbdd1/img/fcc_secondary_small.svg" alt="Free Code Camp">
+    <img style="height: 70px; padding: 1em" src="https://assets.codepen.io/260521/internal/avatars/users/default.png?fit=crop&format=auto&height=256&version=1599848400&width=256" alt="Free Code Camp">
 </a>
 <div>
     <a style="color: #000; font-size: 0.7em;text-decoration:none;" href="https://www.freecodecamp.org/learn/responsive-web-design/">
