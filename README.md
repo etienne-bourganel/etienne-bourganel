@@ -2,7 +2,7 @@
 
 I am a former sales and customer-service guy with an engineering education, now gladly reconverting to become a programmer.
 
-I’m currently learning Web Dev through different courses: Learn Enough, Free Code Camp and The Odin Project.
+I’m currently learning Web Dev through different courses: Learn Enough and The Odin Project. I am also learning Golang.
 
 Some of the modest achievements in my journey so far:
 
@@ -31,7 +31,7 @@ Some of the modest achievements in my journey so far:
 ### [FreeCodeCamp](https://www.freecodecamp.org/learn/)
 
 <a href="https://www.freecodecamp.org/learn">
-    <img style="height: 70px; padding: 1em" src="https://cdn.rawgit.com/Deftwun/e3756a8b518cbb354425/raw/6584db8babd6cbc4ecb35ed36f0d184a506b979e/free-code-camp-logo.svg" alt="Free Code Camp">
+    <img style="height: 70px; padding: 1em" src="https://d33wubrfki0l68.cloudfront.net/bbfa33a202e8612d49b6c1ed05c1fdd8e4001566/bbdd1/img/fcc_secondary_small.svg" alt="Free Code Camp">
 </a>
 <div>
     <a style="color: #000; font-size: 0.7em;text-decoration:none;" href="https://www.freecodecamp.org/learn/responsive-web-design/">
