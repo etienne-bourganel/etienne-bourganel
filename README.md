@@ -35,4 +35,6 @@ Some of the modest achievements in my journey so far:
     </a>
 </div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=etienne-bourganel&theme=tokyonight)
+### Languages overview
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=etienne-bourganel&theme=default)
