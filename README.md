@@ -2,6 +2,8 @@
 
 I am a former sales and customer-service guy with an engineering education, now gladly reconverting to become a programmer.
 
+Please have a look at my [portfolio](https://etienne-bourganel.github.io/personal_portfolio/).
+
 I’m currently learning Web Dev through different courses: [Learn Enough](https://www.learnenough.com/), [freeCodeCamp](https://www.freecodecamp.org/learn) and [The Odin Project](https://www.theodinproject.com/).
 Some of the modest achievements in my journey so far:
 
