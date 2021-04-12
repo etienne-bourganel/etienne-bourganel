@@ -34,3 +34,5 @@ Some of the modest achievements in my journey so far:
     Responsive Web Design Certification
     </a>
 </div>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=etienne-bourganel&theme=tokyonight)
