@@ -39,8 +39,4 @@ Some of the modest achievements in my journey so far:
 
 ### Overview
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=etienne-bourganel&theme=default)
-
-<br>
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=etienne-bourganel&theme=default)
