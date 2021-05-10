@@ -9,20 +9,25 @@ Some of the modest achievements in my journey so far:
 
 ### [Learn Enough to be Dangerous](https://www.learnenough.com/) ###
 
-<a href="https://www.learnenough.com/certificates/cc63d352">
-    <img src="https://www.learnenough.com/certificates/cc63d352/command-line-tutorial.svg" alt="Certificate of Completion for Learn Enough Command Line">
-</a>
-<a href="https://www.learnenough.com/certificates/cc63d352">
-    <img src="https://www.learnenough.com/certificates/cc63d352/text-editor-tutorial.svg" alt="Certificate of Completion for Learn Enough Text Editor">
-</a>
-<a href="https://www.learnenough.com/certificates/cc63d352">
-    <img src="https://www.learnenough.com/certificates/cc63d352/git-tutorial.svg" alt="Certificate of Completion for Learn Enough Git">
-</a>
-<a href="https://www.learnenough.com/certificates/cc63d352">
-    <img src="https://www.learnenough.com/certificates/cc63d352/html-tutorial.svg" alt="Certificate of Completion for Learn Enough HTML"></a>
-<a href="https://www.learnenough.com/certificates/cc63d352">
-    <img src="https://www.learnenough.com/certificates/cc63d352/css-and-layout-tutorial.svg" alt="Certificate of Completion for Learn Enough CSS &amp; Layout">
-</a>
+
+<a href="https://www.learnenough.com/certificates/cc63d352"><img
+    src="https://www.learnenough.com/certificates/cc63d352/command-line-tutorial.svg"
+    alt="Certificate of Completion for Learn Enough Command Line"></a><a
+  href="https://www.learnenough.com/certificates/cc63d352"><img
+    src="https://www.learnenough.com/certificates/cc63d352/text-editor-tutorial.svg"
+    alt="Certificate of Completion for Learn Enough Text Editor"></a><a
+  href="https://www.learnenough.com/certificates/cc63d352"><img
+    src="https://www.learnenough.com/certificates/cc63d352/git-tutorial.svg"
+    alt="Certificate of Completion for Learn Enough Git"></a><a
+  href="https://www.learnenough.com/certificates/cc63d352"><img
+    src="https://www.learnenough.com/certificates/cc63d352/html-tutorial.svg"
+    alt="Certificate of Completion for Learn Enough HTML"></a><a
+  href="https://www.learnenough.com/certificates/cc63d352"><img
+    src="https://www.learnenough.com/certificates/cc63d352/css-and-layout-tutorial.svg"
+    alt="Certificate of Completion for Learn Enough CSS &amp; Layout"></a><a
+  href="https://www.learnenough.com/certificates/cc63d352"><img
+    src="https://www.learnenough.com/certificates/cc63d352/javascript-tutorial.svg"
+    alt="Certificate of Completion for Learn Enough JavaScript"></a>
 
 <br>
 <br>
